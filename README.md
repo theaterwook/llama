@@ -4,7 +4,7 @@
 .gotmor
 #sum
 =
-
+(.
 
 
 
