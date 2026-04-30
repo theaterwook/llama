@@ -1,7 +1,7 @@
 .filename
 .readme
 .llama
-
+.gotmor
 
 
 
