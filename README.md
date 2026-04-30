@@ -1,5 +1,5 @@
 #scan
-
+.fls
 .fls
 readme
 .bash
