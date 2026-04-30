@@ -1,6 +1,6 @@
 .fls
 readme
-
+.bash
 fwefwq# llama
 the first
 the seoncf
